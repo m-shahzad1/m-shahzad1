@@ -38,15 +38,5 @@ Hi there! I'm a Software Engineering student with a passion for programming
 
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Moulik-Budhiraja&style=for-the-badge&color=blue" alt=""></p>
